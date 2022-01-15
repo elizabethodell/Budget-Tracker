@@ -22,4 +22,5 @@ Please see a screenshot of the application below:
 
 Elizabeth Odell's github: https://github.com/elizabethodell
 Github repo: https://github.com/elizabethodell/Budget-Tracker.git
+Heroku: https://git.heroku.com/fierce-earth-43382.git
 Heroku Link (deployed): https://fierce-earth-43382.herokuapp.com/
