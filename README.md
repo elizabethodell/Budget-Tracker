@@ -11,7 +11,7 @@ This application is a personal budget tracker. The user will be able to create a
 
 ## Installation
 
-Download or clone all files onto your computer. You will need to download the following: 'npm install', 'npm install express', 'npm install morgan'
+Download or clone all files onto your computer. You will need to download the following: `npm install`
 
 ## Usuage
 
