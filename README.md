@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker 
 
 ## Description
 This application is a personal budget tracker. The user will be able to create a transaction and amount and can add or subtract the funds. A running list will be below showing a list of all the transactions and amounts. A graph is also included to show the flow of money. 
